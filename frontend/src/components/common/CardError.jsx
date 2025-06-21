@@ -23,4 +23,3 @@ const CardError = ({ message, suggestion }) => {
 };
 
 export default CardError;
-

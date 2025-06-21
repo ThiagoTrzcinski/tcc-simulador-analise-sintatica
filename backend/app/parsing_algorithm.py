@@ -238,4 +238,3 @@ def bottom_up_algorithm(action_table, goto_table, input):
             print("parse alg 7")
             return {"Erro": "Houve um erro!"}
     return detailed_steps
-
